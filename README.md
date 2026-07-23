@@ -38,33 +38,53 @@
   <img width="12" />
 </div>
 
+
+
 #  Socials
 
-<br clear="both">
+<table>
+<tr>
+<td width="15%" align="center" valign="top">
 
-<div align="left">
-  <a href="https://wa.me/989198383305" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/Setayeshmehr_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/setayeshmehr_dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />    
-  </a>
-  
-#  
-  
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
+<br>
+
+<a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" />
+</a>
+
+<br><br><br>
+
+<a href="https://www.instagram.com/setayeshmehr_dev/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" />
+</a>
+
+<br><br><br>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" />
+</a>
+
+<br><br><br>
+
+<a href="https://t.me/Setayeshmehr_dev">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" />
+</a>
+
+<br><br><br>
+
+<a href="https://wa.me/989198383305">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" />
+</a>
+
+</td>
+<td width="500" hight="750">
+
+<img src="https://github.com/user-attachments/assets/e0e2753e-cc39-4681-9b03-d7bf47643bf6" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 # GitHub Stats
 <div align="center">
@@ -72,5 +92,12 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=setayeshmehr-dev&radius=16&theme=github-light&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph" />
 </div>
+
+#  
+  
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
 
 
