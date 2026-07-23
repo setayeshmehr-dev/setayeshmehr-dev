@@ -55,12 +55,9 @@ I'm a passionate frontend developer with a strong attention to detail, focused o
   <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />    
   </a>
-</div>
-</br>
-</hr>
-<span align="center"><>01001001 00100000 01001100 01001111 01010110 01000101 00100000 01000011 01001111 01000100 01001001 01001110 01000111</></span>
-</hr>
-</br>
+  
+#  Love Coding
+  
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
