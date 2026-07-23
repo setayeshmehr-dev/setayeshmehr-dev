@@ -1,5 +1,6 @@
 <img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/54c23f2f-b39e-42c8-9fb6-8624e69f6efb" />
 <span align="start">Hi</span>
+<img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/128c0b26-abbd-4ea2-b51a-d29424a6009c" />
 <span align="start">My name is Amirali Setayeshmehr</span>
 
 <h3 align="center">Frontend developer focused on continuous improvement</h3>
