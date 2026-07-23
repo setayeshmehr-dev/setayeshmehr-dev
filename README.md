@@ -56,7 +56,7 @@ I'm a passionate frontend developer with a strong attention to detail, focused o
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />    
   </a>
   
-#  Love Coding
+#  
   
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
