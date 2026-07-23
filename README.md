@@ -46,8 +46,6 @@
 <tr>
 <td width="15%" height="500" align="center"  valign="top">
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" />
 </a>
