@@ -1,11 +1,11 @@
 <img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/54c23f2f-b39e-42c8-9fb6-8624e69f6efb" />
 <h1 align="center">Amirali Setayeshmehr</h1>
 <h3 align="center">Frontend developer focused on continuous improvement</h3>
-<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
-<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
-<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/803bd22b-f0f0-4cfe-b336-d5ddecfbb73a" />
-<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
-<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/803bd22b-f0f0-4cfe-b336-d5ddecfbb73a" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
 <img width="736" height="1104" alt="Image" src="https://github.com/user-attachments/assets/0c9206b2-5acc-4e7c-81c9-f09f451b7326" />
 
 #  Tech Stack
