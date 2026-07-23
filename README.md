@@ -1,9 +1,9 @@
 <img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/54c23f2f-b39e-42c8-9fb6-8624e69f6efb" />
 <span align="start">Hi</span>
 <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/128c0b26-abbd-4ea2-b51a-d29424a6009c" />
-<span align="start">My name is Amirali Setayeshmehr</span>
+<span fontSize="80" align="start">My name is Amirali Setayeshmehr</span>
 
-<h3 align="center">Frontend developer focused on continuous improvement</h3>
+<h3  align="center">Frontend developer focused on continuous improvement</h3>
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
