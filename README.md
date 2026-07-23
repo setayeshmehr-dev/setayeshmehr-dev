@@ -42,47 +42,47 @@
 
 #  Socials
 
-<table height="750">
+<table>
 <tr>
-<td width="15%" align="center"  valign="top">
+<td width="15%" height="500" align="center"  valign="top">
 
-<br>
+<br><br><br><br>
 
 <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/setayeshmehr_dev/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://t.me/Setayeshmehr_dev">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://wa.me/989198383305">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" />
 </a>
 
 </td>
-<td width="500" height="600" >
+<td width="500" height="550" >
 
 <img src="https://github.com/user-attachments/assets/4eddfb14-1ada-498b-8d92-6b8e3c7fdd17" width="100%" height="100%" />
 
 </td>
-<td width="500" height="600">
+<td width="500" height="550">
 
 <img src="https://github.com/user-attachments/assets/140bcbbf-3213-46fc-861d-a06e90f490ef" width="100%" height="100%" />
 
