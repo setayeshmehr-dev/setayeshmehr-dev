@@ -53,16 +53,11 @@ I'm a passionate frontend developer with a strong attention to detail, focused o
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />    
+  </a>
+</div>
 
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
-
-
-
-
-    
-  </a>
-</div>
