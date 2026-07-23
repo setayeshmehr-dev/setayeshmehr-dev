@@ -1,6 +1,7 @@
 <img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/54c23f2f-b39e-42c8-9fb6-8624e69f6efb" />
 <h1 align="center">Amirali Setayeshmehr</h1>
 <h3 align="center">Frontend developer focused on continuous improvement</h3>
+<img width="736" height="1104" alt="Image" src="https://github.com/user-attachments/assets/0c9206b2-5acc-4e7c-81c9-f09f451b7326" />
 
 #  Tech Stack
 
