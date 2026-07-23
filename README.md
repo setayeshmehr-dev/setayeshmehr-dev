@@ -5,7 +5,6 @@
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
-<img width="736" height="1104" alt="Image" src="https://github.com/user-attachments/assets/0c9206b2-5acc-4e7c-81c9-f09f451b7326" />
 
 #  Tech Stack
 
