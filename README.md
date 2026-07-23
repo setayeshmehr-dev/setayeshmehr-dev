@@ -68,8 +68,9 @@
 
 # GitHub Stats
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=setayeshmehr-dev&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=setayeshmehr-dev&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=setayeshmehr-dev&locale=en&mode=daily&theme=github-light&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=setayeshmehr-dev&radius=16&theme=github-light&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph" />
 </div>
 
 
