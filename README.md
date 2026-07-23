@@ -6,7 +6,8 @@
 </h1>
 
 <span>I'm a passionate frontend developer with a strong attention to detail, focused on building responsive and user-friendly web applications. With expertise in modern JavaScript technologies like React, I transform ideas into functional, engaging, and seamless digital experiences.</span>
-<br>
+</br>
+</br>
 I'm a passionate frontend developer with a strong attention to detail, focused on building responsive and user-friendly web applications. With My development journey is driven by curiosity, continuous learning, and a passion for problem-solving. I enjoy optimizing performance, creating smooth animations, improving accessibility, and writing clean, maintainable code. I thrive in collaborative environments and constantly explore new technologies to build scalable and innovative solutions.</span>
 
 #  Tech Stack
