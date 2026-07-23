@@ -10,6 +10,9 @@
 </br>
 <span>My development journey is driven by curiosity, continuous learning, and a passion for problem-solving. I enjoy optimizing performance, creating smooth animations, improving accessibility, and writing clean, maintainable code. I thrive in collaborative environments and constantly explore new technologies to build scalable and innovative solutions.</span>
 
+* 📍 I'm based in Tehran
+* ✉️  You can contact me at [setayeshmehr.dev@gmail.com](mailto:setayeshmer.dev@gmail.com)
+
 #  Tech Stack
 
 <div align="center">
