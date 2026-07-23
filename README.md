@@ -1,5 +1,5 @@
 <img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/54c23f2f-b39e-42c8-9fb6-8624e69f6efb" />
-<h1 align="center">Amirali Setayeshmehr</h1>
+Hi ![](https://github.com/user-attachments/assets/0c9bed04-65c7-44aa-972b-c6fa14ef7bd8) Amirali Setayeshmehr
 <h3 align="center">Frontend developer focused on continuous improvement</h3>
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
