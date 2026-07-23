@@ -42,9 +42,9 @@
 
 #  Socials
 
-<table>
+<table height="750">
 <tr>
-<td width="15%" align="center" valign="top">
+<td width="15%" align="center"  valign="top">
 
 <br>
 
@@ -77,14 +77,14 @@
 </a>
 
 </td>
-<td width="500" hight="750">
+<td width="500" height="600" >
 
-<img src="https://github.com/user-attachments/assets/4eddfb14-1ada-498b-8d92-6b8e3c7fdd17" width="100%" />
+<img src="https://github.com/user-attachments/assets/4eddfb14-1ada-498b-8d92-6b8e3c7fdd17" width="100%" height="100%" />
 
 </td>
-<td width="500" hight="750">
+<td width="500" height="600">
 
-<img src="https://github.com/user-attachments/assets/140bcbbf-3213-46fc-861d-a06e90f490ef" width="100%" />
+<img src="https://github.com/user-attachments/assets/140bcbbf-3213-46fc-861d-a06e90f490ef" width="100%" height="100%" />
 
 </td>
 
