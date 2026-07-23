@@ -66,3 +66,9 @@
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
 
+# GitHub Stats
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=setayeshmehr-dev)
+</div>
+
+
