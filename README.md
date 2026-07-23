@@ -5,7 +5,7 @@
   My name is Amirali Setayeshmehr
 </h1>
 
-<h3  align="center">Frontend developer focused on building modern, responsive, and intuitive web experiences.
+<h3>Frontend developer focused on building modern, responsive, and intuitive web experiences.
 I enjoy turning ideas into clean interfaces, solving problems through code, and continuously improving my skills.
 Always learning, always building.</h3>
 
