@@ -44,7 +44,7 @@
 
 <table>
 <tr>
-<td width="15%" height="500" align="center"  valign="top">
+<td width="15%" height="470" align="center"  valign="top">
 
 <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" />
@@ -75,7 +75,7 @@
 </a>
 
 </td>
-<td width="500" height="550" >
+<td width="500" height="470" >
 
 <img width="750" height="480" alt="Image" src="https://github.com/user-attachments/assets/066e3ed6-cdd6-479c-9a43-92e545e2330c" />
 </td>
