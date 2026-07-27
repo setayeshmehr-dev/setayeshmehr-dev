@@ -75,8 +75,8 @@
 </a>
 
 </td>
-<td width="500" height="470" >
-  <img width="750" height="540" alt="Image" src="https://github.com/user-attachments/assets/066e3ed6-cdd6-479c-9a43-92e545e2330c" />
+<td width="85%" height="470" >
+  <img width="100%" height="100%" alt="Image" src="https://github.com/user-attachments/assets/066e3ed6-cdd6-479c-9a43-92e545e2330c" />
 </td>
 
 </tr>
