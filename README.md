@@ -77,13 +77,7 @@
 </td>
 <td width="500" height="550" >
 
-<img src="https://github.com/user-attachments/assets/4eddfb14-1ada-498b-8d92-6b8e3c7fdd17" width="100%" height="100%" />
-
-</td>
-<td width="500" height="550">
-
-<img src="https://github.com/user-attachments/assets/140bcbbf-3213-46fc-861d-a06e90f490ef" width="100%" height="100%" />
-
+<img width="900" height="550" alt="Image" src="https://github.com/user-attachments/assets/066e3ed6-cdd6-479c-9a43-92e545e2330c" />
 </td>
 
 </tr>
