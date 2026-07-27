@@ -38,49 +38,43 @@
   <img width="12" />
 </div>
 
+#
 
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/066e3ed6-cdd6-479c-9a43-92e545e2330c" />
+
+#
 
 #  Socials
 
-<table>
-<tr>
-<td width="15%" height="470" align="center"  valign="top">
-
 <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" />
+<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/140ea278-fb6e-4de2-ac14-a4e7163be237" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/setayeshmehr_dev/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" />
+<img width="700" height="510" alt="Image" src="https://github.com/user-attachments/assets/60fbf0af-ec2c-4063-907a-83aa749c9201" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" />
+<img width="736" height="463" alt="Image" src="https://github.com/user-attachments/assets/9fd419b1-230f-4184-a8b6-67356ec944cf" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://t.me/Setayeshmehr_dev">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" />
+<img width="1050" height="385" alt="Image" src="https://github.com/user-attachments/assets/e87fcb7d-b106-46d7-a6e0-a73f30a60c54" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://wa.me/989198383305">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" />
+<img width="1030" height="489" alt="Image" src="https://github.com/user-attachments/assets/5703ec10-5572-45a9-b13a-f489f2f5d8c1" />
 </a>
 
-</td>
-<td width="85%" height="470" >
-  <img width="100%" height="100%" alt="Image" src="https://github.com/user-attachments/assets/066e3ed6-cdd6-479c-9a43-92e545e2330c" />
-</td>
 
-</tr>
-</table>
 
 # GitHub Stats
 <div align="center">
