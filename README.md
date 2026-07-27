@@ -46,34 +46,40 @@
 
 #  Socials
 
+<table width="100%">
+<tr>
+<td align="center" width="20%">
 <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
-<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/140ea278-fb6e-4de2-ac14-a4e7163be237" />
+<img src="https://github.com/user-attachments/assets/140ea278-fb6e-4de2-ac14-a4e7163be237" width="200" height="100">
 </a>
+</td>
 
-<br>
-
+<td align="center" width="20%">
 <a href="https://www.instagram.com/setayeshmehr_dev/">
-<img width="700" height="510" alt="Image" src="https://github.com/user-attachments/assets/60fbf0af-ec2c-4063-907a-83aa749c9201" />
+<img src="https://github.com/user-attachments/assets/60fbf0af-ec2c-4063-907a-83aa749c9201" width="200" height="100">
 </a>
+</td>
 
-<br>
-
+<td align="center" width="20%">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
-<img width="736" height="463" alt="Image" src="https://github.com/user-attachments/assets/9fd419b1-230f-4184-a8b6-67356ec944cf" />
+<img src="https://github.com/user-attachments/assets/9fd419b1-230f-4184-a8b6-67356ec944cf" width="200" height="100">
 </a>
+</td>
 
-<br>
-
+<td align="center" width="20%">
 <a href="https://t.me/Setayeshmehr_dev">
-<img width="1050" height="385" alt="Image" src="https://github.com/user-attachments/assets/e87fcb7d-b106-46d7-a6e0-a73f30a60c54" />
+<img src="https://github.com/user-attachments/assets/e87fcb7d-b106-46d7-a6e0-a73f30a60c54" width="200" height="100">
 </a>
+</td>
 
-<br>
-
+<td align="center" width="20%">
 <a href="https://wa.me/989198383305">
-<img width="1030" height="489" alt="Image" src="https://github.com/user-attachments/assets/5703ec10-5572-45a9-b13a-f489f2f5d8c1" />
+<img src="https://github.com/user-attachments/assets/5703ec10-5572-45a9-b13a-f489f2f5d8c1" width="200" height="100">
 </a>
+</td>
 
+</tr>
+</table>
 
 
 # GitHub Stats
