@@ -43,7 +43,7 @@
 
 #
 
-  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/066e3ed6-cdd6-479c-9a43-92e545e2330c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5068b002-dcb4-4cbe-bef2-ce08108cd023" />
 
 #
 
@@ -65,7 +65,7 @@
 
 <td align="center" width="20%">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
-<img src="https://github.com/user-attachments/assets/9fd419b1-230f-4184-a8b6-67356ec944cf" width="200" height="100">
+<img width="736" height="463" alt="Image" src="https://github.com/user-attachments/assets/43d05c8a-0699-4922-988a-21a5bcb85a63" />
 </a>
 </td>
 
@@ -86,16 +86,6 @@
 
 
 # GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=setayeshmehr-dev&locale=en&mode=daily&theme=github-light&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=setayeshmehr-dev&radius=16&theme=github-light&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph" />
-</div>
-
-#  
-  
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/32dbb4a4-b2ea-419b-bcdd-657ec26c383d" />
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/f137a5b3-b935-41aa-9b00-2c241e8a2aaa" />
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/704ce97b-7011-4293-8caa-310ad246b493" />
-<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/cbf66750-1ad6-4158-924f-338860003b24" />
+<img width="1280" height="426" alt="Image" src="https://github.com/user-attachments/assets/876f008e-7d1c-47df-8f1c-d6ceb7ef7752" />
 
