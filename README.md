@@ -59,25 +59,24 @@
 
 <td align="center" width="20%">
 <a href="https://www.instagram.com/setayeshmehr_dev/">
-<img width="700" height="510" alt="Image" src="https://github.com/user-attachments/assets/5af1eadb-6945-4844-b57f-2d985aed61a5" />
+<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/37b9bf41-031f-4a15-adcf-3d6223faf826" />
 </a>
 </td>
 
 <td align="center" width="20%">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
-<img width="736" height="463" alt="Image" src="https://github.com/user-attachments/assets/43d05c8a-0699-4922-988a-21a5bcb85a63" />
-</a>
+<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/6c51b8e5-e2e1-4e7a-8054-d6b5a373654c" />
 </td>
 
 <td align="center" width="20%">
 <a href="https://t.me/Setayeshmehr_dev">
-<img width="736" height="385" alt="Image" src="https://github.com/user-attachments/assets/924afa13-dd9f-4707-b925-bb38e0098005" />
+<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/6565c6de-11eb-41b1-9e0f-a0d580ee5d1c" />
 </a>
 </td>
 
 <td align="center" width="20%">
 <a href="https://wa.me/989198383305">
-<img width="735" height="489" alt="Image" src="https://github.com/user-attachments/assets/04725281-f01f-4e8f-bcb0-71d14a7267ab" />
+<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/08e2a2dc-58b1-4340-a9f9-913a635fe855" />
 </a>
 </td>
 
