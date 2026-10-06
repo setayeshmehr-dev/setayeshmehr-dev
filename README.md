@@ -1,4 +1,4 @@
-<img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/54c23f2f-b39e-42c8-9fb6-8624e69f6efb" />
+<img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/7e436e5a-594d-46e6-9a60-eafc90a883a2" />
 <h1>
   Hi
   <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/128c0b26-abbd-4ea2-b51a-d29424a6009c" />
@@ -53,13 +53,13 @@
 <tr>
 <td align="center" width="20%">
 <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
-<img src="https://github.com/user-attachments/assets/140ea278-fb6e-4de2-ac14-a4e7163be237" width="200" height="100">
+<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/d00f9ccf-7893-414f-bda7-37fde0da8fd0" />
 </a>
 </td>
 
 <td align="center" width="20%">
 <a href="https://www.instagram.com/setayeshmehr_dev/">
-<img src="https://github.com/user-attachments/assets/60fbf0af-ec2c-4063-907a-83aa749c9201" width="200" height="100">
+<img width="700" height="510" alt="Image" src="https://github.com/user-attachments/assets/5af1eadb-6945-4844-b57f-2d985aed61a5" />
 </a>
 </td>
 
@@ -71,13 +71,13 @@
 
 <td align="center" width="20%">
 <a href="https://t.me/Setayeshmehr_dev">
-<img src="https://github.com/user-attachments/assets/e87fcb7d-b106-46d7-a6e0-a73f30a60c54" width="200" height="100">
+<img width="736" height="385" alt="Image" src="https://github.com/user-attachments/assets/924afa13-dd9f-4707-b925-bb38e0098005" />
 </a>
 </td>
 
 <td align="center" width="20%">
 <a href="https://wa.me/989198383305">
-<img width="200" height="100" alt="Image" src="https://github.com/user-attachments/assets/2dbfda90-edf2-495b-b715-5b0ea8ac5e30" />
+<img width="735" height="489" alt="Image" src="https://github.com/user-attachments/assets/04725281-f01f-4e8f-bcb0-71d14a7267ab" />
 </a>
 </td>
 
