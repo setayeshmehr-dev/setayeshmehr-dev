@@ -1,7 +1,6 @@
 <img width="2034" height="512" alt="Image" src="https://github.com/user-attachments/assets/7e436e5a-594d-46e6-9a60-eafc90a883a2" />
 <h1>
-  Hi
-  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/128c0b26-abbd-4ea2-b51a-d29424a6009c" />
+  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/8885efd4-eb2b-4af1-94a3-823cf473090f" />
   My name is Amirali Setayeshmehr
 </h1>
 
