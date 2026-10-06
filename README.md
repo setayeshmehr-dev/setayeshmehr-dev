@@ -76,7 +76,7 @@
 
 <td align="center" width="20%">
 <a href="https://wa.me/989198383305">
-<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/08e2a2dc-58b1-4340-a9f9-913a635fe855" />
+<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/5381e076-a890-49b0-9add-2bd01abcff33" />
 </a>
 </td>
 
@@ -86,5 +86,5 @@
 
 # GitHub Stats
 
-<img width="1280" height="426" alt="Image" src="https://github.com/user-attachments/assets/876f008e-7d1c-47df-8f1c-d6ceb7ef7752" />
+
 
