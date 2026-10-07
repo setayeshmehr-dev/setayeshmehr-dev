@@ -49,39 +49,23 @@
 
 #  Socials
 
-<table width="100%">
-<tr>
-<td align="center" width="20%">
-<a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
-<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/d00f9ccf-7893-414f-bda7-37fde0da8fd0" />
-</a>
-</td>
-
-<td align="center" width="20%">
-<a href="https://www.instagram.com/setayeshmehr_dev/">
-<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/37b9bf41-031f-4a15-adcf-3d6223faf826" />
-</a>
-</td>
-
-<td align="center" width="20%">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
-<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/6c51b8e5-e2e1-4e7a-8054-d6b5a373654c" />
-</td>
-
-<td align="center" width="20%">
-<a href="https://t.me/Setayeshmehr_dev">
-<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/6565c6de-11eb-41b1-9e0f-a0d580ee5d1c" />
-</a>
-</td>
-
-<td align="center" width="20%">
-<a href="https://wa.me/989198383305">
-<img width="736" height="368" alt="Image" src="https://github.com/user-attachments/assets/5381e076-a890-49b0-9add-2bd01abcff33" />
-</a>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirali-setayeshnehr-b896a3397/">
+    <img width="18%" src="https://github.com/user-attachments/assets/d00f9ccf-7893-414f-bda7-37fde0da8fd0" />
+  </a>
+  <a href="https://www.instagram.com/setayeshmehr_dev/">
+    <img width="18%" src="https://github.com/user-attachments/assets/37b9bf41-031f-4a15-adcf-3d6223faf826" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=setayeshmehr.dev@gmail.com">
+    <img width="18%" src="https://github.com/user-attachments/assets/6c51b8e5-e2e1-4e7a-8054-d6b5a373654c" />
+  </a>
+  <a href="https://t.me/Setayeshmehr_dev">
+    <img width="18%" src="https://github.com/user-attachments/assets/6565c6de-11eb-41b1-9e0f-a0d580ee5d1c" />
+  </a>
+  <a href="https://wa.me/989198383305">
+    <img width="18%" src="https://github.com/user-attachments/assets/5381e076-a890-49b0-9add-2bd01abcff33" />
+  </a>
+</p>
 
 
 # GitHub Stats
